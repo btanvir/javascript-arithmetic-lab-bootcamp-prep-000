@@ -1,4 +1,5 @@
-var nu
+var number=5
+
 
 
 
